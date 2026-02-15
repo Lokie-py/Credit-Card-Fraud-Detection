@@ -13,6 +13,7 @@ making detection challenging. The goal is to accurately identify fraudulent tran
 - Source: Kaggle Credit Card Fraud Detection Dataset
 - Features: Time, Amount, V1–V28 (PCA transformed)
 - Target: Class (0 = Legitimate, 1 = Fraud)
+- Dataset Link: /kaggle/input/datasets/organizations/mlg-ulb/creditcardfraud
 
 ## 🛠 Technologies Used
 - Python
@@ -47,4 +48,5 @@ demonstrating the importance of handling class imbalance.
 3. Run the notebook
 
 ## 📎 Author
+
 Lokesh
